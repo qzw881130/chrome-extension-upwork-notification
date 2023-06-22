@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 550px;
+    height: 400px;
+    padding: 10px;
+}
+h2{
+    margin: 5px 0;
+}
+.tips li{
+    font-size: 14pt;
+    color: rgb(131, 255, 127);
+    padding: 4px;
+    background-color: black;
+    margin: 1px;
+    list-style: none;
+}
